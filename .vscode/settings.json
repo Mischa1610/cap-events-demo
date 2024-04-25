@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.vscode": true
+  },
+  "ui5ts.manifestlocation": "app/risks/webapp/manifest.json"
+}
